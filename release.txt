@@ -1,0 +1,3 @@
+[v03 2016/7/27]
+1.passed YS8156B °±Æø´«¸ÐÆ÷ test
+2.added more lcd dump functions for debug
